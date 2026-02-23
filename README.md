@@ -70,16 +70,4 @@ By the end, you will be confident working with CI/CD, containers, orchestration,
 
 ---
 
-## 🤝 Connect With Me
-
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/kastro-kiran/  
-- ▶️ **YouTube:** https://www.youtube.com/@LearnWithKASTRO  
-- 🌐 **Website:** https://www.learnwithkastro.com  
-
-<p>
-📬 Feel free to connect for <b>guidance, collaboration, mentorship, or opportunities</b>.
-</p>
-
----
-
 <h3 align="center">✨ Keep Learning • Keep Building • Keep Automating ✨</h3>
